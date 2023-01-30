@@ -1,4 +1,4 @@
-declare module '@usertive/react-fluid-animation' {
+declare module 'fluid-animation' {
   import {Component} from 'react';
 
   export interface IAnimationConfig {
