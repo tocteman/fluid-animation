@@ -1,4 +1,4 @@
-declare module 'fluid-animation' {
+declare module '@tocteman/react-fluid-animation' {
   import {Component} from 'react';
 
   export interface IAnimationConfig {
